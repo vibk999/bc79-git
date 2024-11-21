@@ -1,0 +1,2 @@
++repository local: sorce code trong máy tính
++repository remote: souce lưu trên github
