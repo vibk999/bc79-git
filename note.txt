@@ -1,2 +1,14 @@
 +repository local: sorce code trong máy tính
 +repository remote: souce lưu trên github
+
+
+
+Đẩy lần đầu:
+git add -A
+git commit -m " Page"
+git push -u origin(tên nhánh hiện tại)
+
+Đẩy lần n :
+git add -A 
+git commit -m "lalalala"
+git push
